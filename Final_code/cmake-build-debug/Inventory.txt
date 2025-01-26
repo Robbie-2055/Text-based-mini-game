@@ -1,0 +1,4 @@
+Bag contents:
+Mined Gems: 6
+Mined Ores: 6
+Total Money: $0
