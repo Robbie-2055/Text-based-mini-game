@@ -11,10 +11,10 @@ Features
 ## Game play
 * You control a miner starting at position (0,0).
 * Use W, A, S, D keys to move:
- - W = Up
- - A = Left
- - S = Down
- - D = Right
+W = Up
+A = Left
+S = Down
+D = Right
 * Press I to check your inventory.
 * Mine gems (G) worth $10 and ores (O) worth $5.
 * Avoid obstacles (X)—they block your path!
