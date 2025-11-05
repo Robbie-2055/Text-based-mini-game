@@ -28,7 +28,7 @@ W = Up, A = Left, S = Down, D = Right
 | `X`    | Obstacle    |
 | `.`    | Empty Space |
 
-##Results
+## Results
 
 <img width="764" height="334" alt="mm" src="https://github.com/user-attachments/assets/5bf9413d-c8fb-4158-8ff1-0c607c924d03" />
 
